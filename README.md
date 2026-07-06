@@ -3,7 +3,7 @@
 This repository implements a neural network from scratch in Python, based on concepts from the [MTC Workshop](https://github.com/Muslim-Tech-Collaborative-UCSD) by [Zahir Ali](https://github.com/zahiraIi)
 
 ## Overview
-[Brief description of what your neural network does - e.g., "A fully-connected neural network implementation for classification tasks with forward propagation, backpropagation, and gradient descent optimization."]
+A fully-connected neural network implementation for classification tasks with forward propagation, backpropagation, and gradient descent optimization.
 
 ## Tools & Dependencies
 - **Python** 
